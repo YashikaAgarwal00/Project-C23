@@ -1,1 +1,2 @@
-# Project-C23
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
